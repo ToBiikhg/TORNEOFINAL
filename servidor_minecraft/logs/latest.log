@@ -104,3 +104,9 @@
 [04:27:03] [Server thread/INFO]: ToBiik_ left the game
 [04:27:15] [Server thread/INFO]: [@: Set the time to 1000]
 [04:27:15] [Server thread/INFO]: [@: Changing to clear weather]
+[05:03:15] [Server thread/INFO]: Stopping server
+[05:03:15] [Server thread/INFO]: Saving players
+[05:03:15] [Server thread/INFO]: Saving worlds
+[05:03:15] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[05:03:15] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[05:03:15] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
