@@ -446,3 +446,19 @@ io.netty.handler.timeout.ReadTimeoutException
 [01:46:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [01:47:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [01:48:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:49:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:49:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:50:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:51:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:52:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:52:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:53:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:54:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:55:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:55:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:56:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:57:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:58:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:58:05] [Netty Server IO #3/INFO] [FML/]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[01:58:05] [Server thread/INFO] [FML/]: Connection received without FML marker, assuming vanilla.
+[01:58:05] [Server thread/INFO] [FML/]: [Server thread] Server side vanilla connection established
