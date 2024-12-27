@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "8bb54e95-a3fa-3821-80f1-81de7689d1ee",
+    "name": "HOLAPATO",
+    "created": "2024-12-27 23:04:17 +0000",
+    "source": "ToBiik_",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7b26b166-2024-3cef-b53f-2da5c1068f35",
+    "name": "@p",
+    "created": "2024-12-27 23:04:06 +0000",
+    "source": "HOLAPATO",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1c2ebfcc-68cb-3a33-9596-4129e57cc237",
+    "name": "HOLAPATO0",
+    "created": "2024-12-27 23:05:26 +0000",
+    "source": "ToBiik_",
+    "expires": "forever",
+    "reason": "BANEADO POR PERDER 3 VECES"
+  }
+]
