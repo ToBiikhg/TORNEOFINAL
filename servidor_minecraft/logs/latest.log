@@ -1,23 +1,133 @@
-[15:30:16] [Server thread/INFO]: Starting minecraft server version 1.8
-[15:30:18] [Server thread/INFO]: Loading properties
-[15:30:18] [Server thread/INFO]: Default game type: ADVENTURE
-[15:30:18] [Server thread/INFO]: Generating keypair
-[15:30:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:30:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:30:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:30:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:30:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:30:18] [Server thread/INFO]: Preparing level "torneo"
-[15:31:04] [Server thread/INFO]: Preparing start region for level 0
-[15:31:04] [Server thread/INFO]: Done (45.996s)! For help, type "help" or "?"
-[15:31:09] [Server thread/INFO]: [@: Set the time to 1000]
-[15:31:09] [Server thread/INFO]: [@: Changing to clear weather]
-[15:31:25] [Server thread/INFO]: ToBiik_[/127.135.168.66:52573] logged in with entity id 18 at (0.7874454480704072, 26.90414915409588, 9.308142684002297)
-[15:31:25] [Server thread/INFO]: ToBiik_ joined the game
-[15:31:42] [Server thread/INFO]: [ToBiik_: Stopping the server]
-[15:31:42] [Server thread/INFO]: Stopping server
-[15:31:42] [Server thread/INFO]: Saving players
-[15:31:42] [Server thread/INFO]: Saving worlds
-[15:31:42] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[15:31:42] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[15:31:42] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[15:32:36] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:32:37] [Server thread/INFO]: Loading properties
+[15:32:37] [Server thread/INFO]: Default game type: ADVENTURE
+[15:32:37] [Server thread/INFO]: Generating keypair
+[15:32:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:32:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:32:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:32:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:32:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:32:38] [Server thread/INFO]: Preparing level "torneo"
+[15:32:39] [Server thread/INFO]: Preparing start region for level 0
+[15:32:39] [Server thread/INFO]: Done (1.022s)! For help, type "help" or "?"
+[15:32:54] [Server thread/INFO]: ToBiik_[/127.135.168.66:38053] logged in with entity id 18 at (41.43395057750293, 30.269796660294062, -19.239186830081245)
+[15:32:54] [Server thread/INFO]: ToBiik_ joined the game
+[15:32:57] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:32:57] [Server thread/INFO]: [@: Set the time to 1000]
+[15:32:57] [Server thread/INFO]: [@: Changing to clear weather]
+[15:33:48] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:33:48] [Server thread/INFO]: [@: Set the time to 1000]
+[15:33:48] [Server thread/INFO]: [@: Changing to clear weather]
+[15:34:39] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:34:39] [Server thread/INFO]: [@: Set the time to 1000]
+[15:34:39] [Server thread/INFO]: [@: Changing to clear weather]
+[15:35:30] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:35:30] [Server thread/INFO]: [@: Set the time to 1000]
+[15:35:30] [Server thread/INFO]: [@: Changing to clear weather]
+[15:36:21] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:36:21] [Server thread/INFO]: [@: Set the time to 1000]
+[15:36:21] [Server thread/INFO]: [@: Changing to clear weather]
+[15:37:13] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:37:13] [Server thread/INFO]: [@: Set the time to 1000]
+[15:37:13] [Server thread/INFO]: [@: Changing to clear weather]
+[15:37:40] [Server thread/INFO]: <ToBiik_> holaaaaa
+[15:38:04] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:38:04] [Server thread/INFO]: [@: Set the time to 1000]
+[15:38:04] [Server thread/INFO]: [@: Changing to clear weather]
+[15:38:55] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:38:55] [Server thread/INFO]: [@: Set the time to 1000]
+[15:38:55] [Server thread/INFO]: [@: Changing to clear weather]
+[15:39:46] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:39:46] [Server thread/INFO]: [@: Set the time to 1000]
+[15:39:46] [Server thread/INFO]: [@: Changing to clear weather]
+[15:40:37] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:40:37] [Server thread/INFO]: [@: Set the time to 1000]
+[15:40:37] [Server thread/INFO]: [@: Changing to clear weather]
+[15:41:20] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
+[15:41:22] [Server thread/INFO]: <ToBiik_> a
+[15:41:28] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:41:28] [Server thread/INFO]: [@: Set the time to 1000]
+[15:41:28] [Server thread/INFO]: [@: Changing to clear weather]
+[15:42:19] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:42:19] [Server thread/INFO]: [@: Set the time to 1000]
+[15:42:19] [Server thread/INFO]: [@: Changing to clear weather]
+[15:43:11] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:43:11] [Server thread/INFO]: [@: Set the time to 1000]
+[15:43:11] [Server thread/INFO]: [@: Changing to clear weather]
+[15:44:02] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:44:02] [Server thread/INFO]: [@: Set the time to 1000]
+[15:44:02] [Server thread/INFO]: [@: Changing to clear weather]
+[15:44:53] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:44:53] [Server thread/INFO]: [@: Set the time to 1000]
+[15:44:53] [Server thread/INFO]: [@: Changing to clear weather]
+[15:45:44] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:45:44] [Server thread/INFO]: [@: Set the time to 1000]
+[15:45:44] [Server thread/INFO]: [@: Changing to clear weather]
+[15:46:35] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:46:35] [Server thread/INFO]: [@: Set the time to 1000]
+[15:46:35] [Server thread/INFO]: [@: Changing to clear weather]
+[15:47:26] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:47:26] [Server thread/INFO]: [@: Set the time to 1000]
+[15:47:26] [Server thread/INFO]: [@: Changing to clear weather]
+[15:48:17] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:48:17] [Server thread/INFO]: [@: Set the time to 1000]
+[15:48:17] [Server thread/INFO]: [@: Changing to clear weather]
+[15:49:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:49:09] [Server thread/INFO]: [@: Set the time to 1000]
+[15:49:09] [Server thread/INFO]: [@: Changing to clear weather]
+[15:50:00] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:50:00] [Server thread/INFO]: [@: Set the time to 1000]
+[15:50:00] [Server thread/INFO]: [@: Changing to clear weather]
+[15:50:51] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:50:51] [Server thread/INFO]: [@: Set the time to 1000]
+[15:50:51] [Server thread/INFO]: [@: Changing to clear weather]
+[15:51:42] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:51:42] [Server thread/INFO]: [@: Set the time to 1000]
+[15:51:42] [Server thread/INFO]: [@: Changing to clear weather]
+[15:52:33] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:52:33] [Server thread/INFO]: [@: Set the time to 1000]
+[15:52:33] [Server thread/INFO]: [@: Changing to clear weather]
+[15:53:24] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:53:24] [Server thread/INFO]: [@: Set the time to 1000]
+[15:53:24] [Server thread/INFO]: [@: Changing to clear weather]
+[15:54:16] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:54:16] [Server thread/INFO]: [@: Set the time to 1000]
+[15:54:16] [Server thread/INFO]: [@: Changing to clear weather]
+[15:55:07] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:55:07] [Server thread/INFO]: [@: Set the time to 1000]
+[15:55:07] [Server thread/INFO]: [@: Changing to clear weather]
+[15:55:45] [Server thread/INFO]: ToBiik_hhhhh[/127.135.168.66:37947] logged in with entity id 19 at (37.5, 4.0, 0.5)
+[15:55:45] [Server thread/INFO]: ToBiik_hhhhh joined the game
+[15:55:58] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_hhhhh for 99999 seconds]
+[15:55:58] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:55:58] [Server thread/INFO]: [@: Set the time to 1000]
+[15:55:58] [Server thread/INFO]: [@: Changing to clear weather]
+[15:56:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[15:56:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_hhhhh for 99999 seconds]
+[15:56:49] [Server thread/INFO]: [@: Set the time to 1000]
+[15:56:49] [Server thread/INFO]: [@: Changing to clear weather]
+[15:57:28] [Server thread/INFO]: [ToBiik_: Banned IP address 127.135.168.66 belonging to ToBiik_ and ToBiik_hhhhh]
+[15:57:28] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='You have been IP banned.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:57:28] [Server thread/INFO]: ToBiik_ left the game
+[15:57:28] [Server thread/INFO]: ToBiik_hhhhh lost connection: TextComponent{text='You have been IP banned.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:57:28] [Server thread/INFO]: ToBiik_hhhhh left the game
+[15:57:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f022d00[id=e5a9f088-cb83-32d9-acb5-b26947747fb4,name=ToBiik_hhhhh,properties={},legacy=false] (/127.135.168.66:57169): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:57:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f022d00[id=e5a9f088-cb83-32d9-acb5-b26947747fb4,name=ToBiik_hhhhh,properties={},legacy=false] (/127.135.168.66:57169) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:57:40] [Server thread/INFO]: [@: Set the time to 1000]
+[15:57:40] [Server thread/INFO]: [@: Changing to clear weather]
+[15:58:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@500f6194[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:53435): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:58:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@500f6194[id=12a5f179-d6bc-32c8-aaf8-c4dce87d60c4,name=ToBiik_,properties={},legacy=false] (/127.135.168.66:53435) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:58:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2863ede9[id=2fcc7fcc-92f7-3273-8a25-236f8ae5989b,name=ToBiik_2222,properties={},legacy=false] (/127.135.168.66:34665): Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:58:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@2863ede9[id=2fcc7fcc-92f7-3273-8a25-236f8ae5989b,name=ToBiik_2222,properties={},legacy=false] (/127.135.168.66:34665) lost connection: Your IP address is banned from this server!
+Reason: Banned by an operator.
+[15:59:31] [Server thread/INFO]: Stopping server
+[15:59:31] [Server thread/INFO]: Saving players
+[15:59:31] [Server thread/INFO]: Saving worlds
+[15:59:31] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[15:59:31] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[15:59:31] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
