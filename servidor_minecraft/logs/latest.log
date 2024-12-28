@@ -1,48 +1,45 @@
-[04:57:05] [Server thread/INFO]: Starting minecraft server version 1.8
-[04:57:07] [Server thread/INFO]: Loading properties
-[04:57:07] [Server thread/INFO]: Default game type: ADVENTURE
-[04:57:07] [Server thread/INFO]: Generating keypair
-[04:57:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:57:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:57:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:57:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:57:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:57:09] [Server thread/INFO]: Preparing level "torneo"
-[04:57:09] [Server thread/INFO]: Preparing start region for level 0
-[04:57:09] [Server thread/INFO]: Done (1.210s)! For help, type "help" or "?"
-[04:57:16] [Server thread/INFO]: INSANO_AP[/127.79.209.127:57267] logged in with entity id 18 at (42.154692152381294, 5.471528438073763, 38.572796390851856)
-[04:57:16] [Server thread/INFO]: INSANO_AP joined the game
-[04:57:18] [Server thread/INFO]: ToBiik_[/127.135.168.66:35135] logged in with entity id 19 at (32.46421205851223, 10.0, 5.587636813006469)
-[04:57:18] [Server thread/INFO]: ToBiik_ joined the game
-[04:57:25] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[04:57:25] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[04:57:25] [Server thread/INFO]: [@: Set the time to 1000]
-[04:57:25] [Server thread/INFO]: [@: Changing to clear weather]
-[04:58:17] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[04:58:17] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[04:58:17] [Server thread/INFO]: [@: Set the time to 1000]
-[04:58:17] [Server thread/INFO]: [@: Changing to clear weather]
-[04:59:08] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[04:59:08] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[04:59:08] [Server thread/INFO]: [@: Set the time to 1000]
-[04:59:08] [Server thread/INFO]: [@: Changing to clear weather]
-[04:59:59] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[04:59:59] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[04:59:59] [Server thread/INFO]: [@: Set the time to 1000]
-[04:59:59] [Server thread/INFO]: [@: Changing to clear weather]
-[05:00:50] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:00:50] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:00:50] [Server thread/INFO]: [@: Set the time to 1000]
-[05:00:50] [Server thread/INFO]: [@: Changing to clear weather]
-[05:01:41] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:01:41] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:01:41] [Server thread/INFO]: [@: Set the time to 1000]
-[05:01:41] [Server thread/INFO]: [@: Changing to clear weather]
-[05:02:09] [Server thread/INFO]: Stopping server
-[05:02:09] [Server thread/INFO]: Saving players
-[05:02:09] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:02:09] [Server thread/INFO]: ToBiik_ left the game
-[05:02:09] [Server thread/INFO]: Saving worlds
-[05:02:09] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[05:02:09] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[05:02:09] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[05:02:31] [Server thread/INFO]: Starting minecraft server version 1.8
+[05:02:33] [Server thread/INFO]: Loading properties
+[05:02:33] [Server thread/INFO]: Default game type: ADVENTURE
+[05:02:33] [Server thread/INFO]: Generating keypair
+[05:02:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:02:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:02:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:02:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:02:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:02:34] [Server thread/INFO]: Preparing level "torneo"
+[05:02:34] [Server thread/INFO]: Preparing start region for level 0
+[05:02:35] [Server thread/INFO]: Done (1.366s)! For help, type "help" or "?"
+[05:02:38] [Server thread/INFO]: ToBiik_[/127.135.168.66:58803] logged in with entity id 18 at (25.49717037437118, 24.0, 12.5202056902437)
+[05:02:38] [Server thread/INFO]: ToBiik_ joined the game
+[05:02:45] [Server thread/INFO]: INSANO_AP[/127.79.209.127:49233] logged in with entity id 19 at (-14.65661862201584, 4.0, 31.39121859520673)
+[05:02:45] [Server thread/INFO]: INSANO_AP joined the game
+[05:02:58] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:02:58] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:02:58] [Server thread/INFO]: [@: Set the time to 1000]
+[05:02:58] [Server thread/INFO]: [@: Changing to clear weather]
+[05:03:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:03:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:03:49] [Server thread/INFO]: [@: Set the time to 1000]
+[05:03:49] [Server thread/INFO]: [@: Changing to clear weather]
+[05:04:40] [Server thread/INFO]: [ToBiik_: Banned player INSANO_AP]
+[05:04:40] [Server thread/INFO]: INSANO_AP lost connection: TextComponent{text='You are banned from this server.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:04:40] [Server thread/INFO]: INSANO_AP left the game
+[05:04:40] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:04:40] [Server thread/INFO]: [@: Set the time to 1000]
+[05:04:40] [Server thread/INFO]: [@: Changing to clear weather]
+[05:04:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@15b3c083[id=7c5b2ecb-4b0c-386e-9e46-e7584ffa2aeb,name=INSANO_AP,properties={},legacy=false] (/127.79.209.127:59579): You are banned from this server!
+Reason: Banned by an operator.
+[05:04:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@15b3c083[id=7c5b2ecb-4b0c-386e-9e46-e7584ffa2aeb,name=INSANO_AP,properties={},legacy=false] (/127.79.209.127:59579) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[05:05:13] [Server thread/INFO]: Jesus_124[/127.79.209.127:36809] logged in with entity id 20 at (35.821135001777826, 4.0, -1.3856787998056825)
+[05:05:13] [Server thread/INFO]: Jesus_124 joined the game
+[05:05:31] [Server thread/INFO]: [ToBiik_: Stopping the server]
+[05:05:31] [Server thread/INFO]: Stopping server
+[05:05:31] [Server thread/INFO]: Saving players
+[05:05:31] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:05:31] [Server thread/INFO]: ToBiik_ left the game
+[05:05:31] [Server thread/INFO]: Saving worlds
+[05:05:31] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[05:05:31] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[05:05:31] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
