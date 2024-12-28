@@ -1,46 +1,10 @@
-[05:46:41] [Server thread/INFO]: Starting minecraft server version 1.8
-[05:46:43] [Server thread/INFO]: Loading properties
-[05:46:43] [Server thread/INFO]: Default game type: ADVENTURE
-[05:46:43] [Server thread/INFO]: Generating keypair
-[05:46:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:46:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:46:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:46:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:46:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:46:44] [Server thread/INFO]: Preparing level "torneo"
-[05:46:44] [Server thread/INFO]: Preparing start region for level 0
-[05:46:44] [Server thread/INFO]: Done (1.361s)! For help, type "help" or "?"
-[05:46:50] [Server thread/INFO]: ToBiik_[/127.135.168.66:53425] logged in with entity id 18 at (-4.84660677795986, 20.59706545601077, 19.58778020479588)
-[05:46:50] [Server thread/INFO]: ToBiik_ joined the game
-[05:46:54] [Server thread/INFO]: INSANO_AP[/127.79.209.127:47197] logged in with entity id 19 at (-8.973906462178432, 33.95119906778019, -40.197287998508905)
-[05:46:54] [Server thread/INFO]: INSANO_AP joined the game
-[05:47:35] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:47:35] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:47:35] [Server thread/INFO]: [@: Set the time to 1000]
-[05:47:35] [Server thread/INFO]: [@: Changing to clear weather]
-[05:48:26] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:48:26] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:48:26] [Server thread/INFO]: [@: Set the time to 1000]
-[05:48:26] [Server thread/INFO]: [@: Changing to clear weather]
-[05:49:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:49:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:49:18] [Server thread/INFO]: [@: Set the time to 1000]
-[05:49:18] [Server thread/INFO]: [@: Changing to clear weather]
-[05:50:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:50:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:50:09] [Server thread/INFO]: [@: Set the time to 1000]
-[05:50:09] [Server thread/INFO]: [@: Changing to clear weather]
-[05:51:00] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:51:00] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:51:00] [Server thread/INFO]: [@: Set the time to 1000]
-[05:51:00] [Server thread/INFO]: [@: Changing to clear weather]
-[05:51:51] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:51:51] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:51:51] [Server thread/INFO]: [@: Set the time to 1000]
-[05:51:51] [Server thread/INFO]: [@: Changing to clear weather]
-[05:51:51] [Server thread/INFO]: Stopping server
-[05:51:51] [Server thread/INFO]: Saving players
-[05:51:51] [Server thread/INFO]: Saving worlds
-[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[15:08:16] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:08:17] [Server thread/INFO]: Loading properties
+[15:08:17] [Server thread/INFO]: Default game type: ADVENTURE
+[15:08:17] [Server thread/INFO]: Generating keypair
+[15:08:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:08:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:08:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:08:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:08:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:08:18] [Server thread/INFO]: Preparing level "torneo"

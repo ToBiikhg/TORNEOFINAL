@@ -1,156 +1,179 @@
-[05:13:43] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[05:13:43] [main/INFO] [FML/]: Forge Mod Loader version 11.14.4.1577 for Minecraft 1.8 loading
-[05:13:43] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[05:13:43] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar
-[05:13:43] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIvtKhhF:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
-[05:13:43] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[05:13:43] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[05:13:43] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[05:13:43] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[05:13:43] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[05:13:43] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[05:13:43] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[05:13:43] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/TORNEOFINAL/servidor_minecraft/.
-[05:13:43] [main/DEBUG] [FML/]: Discovering coremods
-[05:13:43] [main/DEBUG] [FML/]: Examining for coremod candidacy BanHammer.jar
-[05:13:43] [main/DEBUG] [FML/]: Not found coremod data in BanHammer.jar
-[05:13:43] [main/DEBUG] [FML/]: Examining for coremod candidacy BanManager.jar
-[05:13:43] [main/DEBUG] [FML/]: Not found coremod data in BanManager.jar
-[05:13:43] [main/DEBUG] [FML/]: Examining for coremod candidacy Ipfinder V2.jar
-[05:13:43] [main/DEBUG] [FML/]: Not found coremod data in Ipfinder V2.jar
-[05:13:43] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.8-6.1.jar
-[05:13:43] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.8-6.1.jar
-[05:13:43] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[05:13:43] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[05:13:43] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[05:13:43] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[05:13:43] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[05:13:43] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
-[05:13:43] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[05:13:44] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[05:13:44] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[05:13:44] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[05:13:44] [main/DEBUG] [FML/]: Injection complete
-[05:13:44] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
-[05:13:44] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[05:13:44] [main/DEBUG] [FML/]: Read 790 binary patches
-[05:13:45] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
-[05:13:45] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[05:13:45] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[05:13:45] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[05:13:45] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
-[05:13:45] [main/DEBUG] [FML/]: Injection complete
-[05:13:45] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[05:13:45] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[05:13:45] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[05:13:45] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[05:13:45] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
-[05:13:45] [main/DEBUG] [FML/]: Validating minecraft
-[05:13:45] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[05:13:45] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[05:13:45] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[05:13:45] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[05:13:49] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
-[05:13:49] [Server thread/INFO] [FML/]: MinecraftForge v11.14.4.1577 Initialized
-[05:13:49] [Server thread/INFO] [FML/]: Replaced 204 ore recipies
-[05:13:49] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
-[05:13:49] [Server thread/DEBUG] [FML/]: File /workspaces/TORNEOFINAL/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
-[05:13:49] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[05:13:49] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[05:13:49] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar, loading
-[05:13:49] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[05:13:49] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
-[05:13:49] [Server thread/INFO] [FML/]: Searching /workspaces/TORNEOFINAL/servidor_minecraft/mods for mods
-[05:13:49] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BanHammer.jar
-[05:13:49] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BanManager.jar
-[05:13:49] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Ipfinder V2.jar
-[05:13:49] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.8-6.1.jar
-[05:13:49] [Server thread/DEBUG] [FML/]: Examining file forge-1.8-11.14.4.1577-universal.jar for potential mods
-[05:13:49] [Server thread/DEBUG] [FML/]: The mod container forge-1.8-11.14.4.1577-universal.jar appears to be missing an mcmod.info file
-[05:13:49] [Server thread/DEBUG] [FML/]: Examining file BanHammer.jar for potential mods
-[05:13:49] [Server thread/DEBUG] [FML/]: The mod container BanHammer.jar appears to be missing an mcmod.info file
-[05:13:49] [Server thread/DEBUG] [FML/]: Examining file BanManager.jar for potential mods
-[05:13:49] [Server thread/DEBUG] [FML/]: The mod container BanManager.jar appears to be missing an mcmod.info file
-[05:13:49] [Server thread/DEBUG] [FML/]: Examining file Ipfinder V2.jar for potential mods
-[05:13:49] [Server thread/DEBUG] [FML/]: The mod container Ipfinder V2.jar appears to be missing an mcmod.info file
-[05:13:49] [Server thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.8-6.1.jar for potential mods
-[05:13:49] [Server thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.8-6.1.jar
-[05:13:49] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
-[05:13:50] [Server thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
-[05:13:50] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
-[05:13:50] [Server thread/TRACE] [FML/]: Received a system property request ''
-[05:13:50] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[05:13:50] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[05:13:50] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.4.1577-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[05:13:50] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.4.1577-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[05:13:50] [Server thread/DEBUG] [worldedit/]: Enabling mod worldedit
-[05:13:50] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[05:13:50] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
-[05:13:50] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
-[05:13:50] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
-[05:13:50] [Server thread/DEBUG] [FML/]: Mod sorting data
-[05:13:50] [Server thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1): worldedit-forge-mc1.8-6.1.jar ()
-[05:13:50] [Server thread/INFO] [FML/]: FML has found a non-mod file BanHammer.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[05:13:50] [Server thread/INFO] [FML/]: FML has found a non-mod file BanManager.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[05:13:50] [Server thread/INFO] [FML/]: FML has found a non-mod file Ipfinder V2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[05:13:50] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[05:13:50] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
-[05:13:50] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[05:13:50] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[05:13:50] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[05:13:50] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
-[05:13:50] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at CLIENT
-[05:13:50] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at SERVER
-[05:13:50] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.270s
-[05:13:50] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
-[05:13:50] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
-[05:13:50] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
-[05:13:50] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.14.4.1577)
-[05:13:50] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.005s
-[05:13:50] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
-[05:13:50] [Server thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
-[05:13:50] [Server thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
-[05:13:50] [Server thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1)
-[05:13:50] [Server thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
-[05:13:50] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.075s
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.352s
-[05:13:50] [Server thread/DEBUG] [FML/]: Mod signature data
-[05:13:50] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
-[05:13:50] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
-[05:13:50] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
-[05:13:50] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8-11.14.4.1577-universal.jar
-[05:13:50] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.14.4.1577)	forge-1.8-11.14.4.1577-universal.jar
-[05:13:50] [Server thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1)	worldedit-forge-mc1.8-6.1.jar
-[05:13:50] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
-[05:13:50] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
-[05:13:50] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[05:13:50] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[05:13:50] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[05:13:50] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
-[05:13:50] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[05:13:50] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.014s
-[05:13:50] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
-[05:13:50] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
-[05:13:50] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.037s
-[05:13:50] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
-[05:13:50] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[05:13:50] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.032s
-[05:13:50] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.084s
-[05:13:50] [Server thread/INFO] [FML/]: Applying holder lookups
-[05:13:50] [Server thread/INFO] [FML/]: Holder lookups applied
-[05:13:50] [Server thread/INFO] [FML/]: Injecting itemstacks
-[05:13:50] [Server thread/INFO] [FML/]: Itemstack injection complete
-[05:13:50] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+[14:40:59] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[14:41:00] [main/INFO] [FML/]: Forge Mod Loader version 11.14.4.1577 for Minecraft 1.8 loading
+[14:41:00] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[14:41:00] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar
+[14:41:00] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEI2nRuc6:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[14:41:00] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[14:41:00] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[14:41:00] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[14:41:00] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[14:41:00] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[14:41:00] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[14:41:00] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[14:41:00] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/TORNEOFINAL/servidor_minecraft/.
+[14:41:00] [main/DEBUG] [FML/]: Discovering coremods
+[14:41:00] [main/DEBUG] [FML/]: Examining for coremod candidacy BanManager.jar
+[14:41:00] [main/DEBUG] [FML/]: Not found coremod data in BanManager.jar
+[14:41:00] [main/DEBUG] [FML/]: Examining for coremod candidacy CustomNPCs_1.8.0(09jan16).jar
+[14:41:00] [main/DEBUG] [FML/]: Not found coremod data in CustomNPCs_1.8.0(09jan16).jar
+[14:41:00] [main/DEBUG] [FML/]: Examining for coremod candidacy NoSwear.jar
+[14:41:00] [main/DEBUG] [FML/]: Not found coremod data in NoSwear.jar
+[14:41:00] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.8-6.1.jar
+[14:41:00] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.8-6.1.jar
+[14:41:00] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:41:00] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:41:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:41:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:41:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:41:00] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[14:41:00] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:41:00] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:41:00] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:41:00] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:41:00] [main/DEBUG] [FML/]: Injection complete
+[14:41:00] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[14:41:00] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[14:41:01] [main/DEBUG] [FML/]: Read 790 binary patches
+[14:41:01] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[14:41:01] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[14:41:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:41:01] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[14:41:01] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[14:41:01] [main/DEBUG] [FML/]: Injection complete
+[14:41:01] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[14:41:01] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[14:41:01] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[14:41:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:41:01] [main/DEBUG] [FML/]: Loaded 159 rules from AccessTransformer config file forge_at.cfg
+[14:41:01] [main/DEBUG] [FML/]: Validating minecraft
+[14:41:02] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[14:41:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:41:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:41:02] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:41:06] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[14:41:06] [Server thread/INFO] [FML/]: MinecraftForge v11.14.4.1577 Initialized
+[14:41:06] [Server thread/INFO] [FML/]: Replaced 204 ore recipies
+[14:41:06] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[14:41:06] [Server thread/DEBUG] [FML/]: File /workspaces/TORNEOFINAL/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[14:41:06] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[14:41:06] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[14:41:06] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar, loading
+[14:41:06] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[14:41:06] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[14:41:06] [Server thread/INFO] [FML/]: Searching /workspaces/TORNEOFINAL/servidor_minecraft/mods for mods
+[14:41:06] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BanManager.jar
+[14:41:06] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file CustomNPCs_1.8.0(09jan16).jar
+[14:41:06] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file NoSwear.jar
+[14:41:06] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.8-6.1.jar
+[14:41:06] [Server thread/DEBUG] [FML/]: Examining file forge-1.8-11.14.4.1577-universal.jar for potential mods
+[14:41:06] [Server thread/DEBUG] [FML/]: The mod container forge-1.8-11.14.4.1577-universal.jar appears to be missing an mcmod.info file
+[14:41:07] [Server thread/DEBUG] [FML/]: Examining file BanManager.jar for potential mods
+[14:41:07] [Server thread/DEBUG] [FML/]: The mod container BanManager.jar appears to be missing an mcmod.info file
+[14:41:07] [Server thread/DEBUG] [FML/]: Examining file CustomNPCs_1.8.0(09jan16).jar for potential mods
+[14:41:07] [Server thread/TRACE] [FML/]: Located mcmod.info file in file CustomNPCs_1.8.0(09jan16).jar
+[14:41:07] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (noppes.npcs.CustomNpcs) - loading
+[14:41:07] [Server thread/TRACE] [customnpcs/]: Parsed dependency info : [Forge@[11.14.1.1334,)] [Forge@[11.14.1.1334,)] []
+[14:41:07] [Server thread/DEBUG] [FML/]: Examining file NoSwear.jar for potential mods
+[14:41:07] [Server thread/DEBUG] [FML/]: The mod container NoSwear.jar appears to be missing an mcmod.info file
+[14:41:07] [Server thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.8-6.1.jar for potential mods
+[14:41:07] [Server thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.8-6.1.jar
+[14:41:07] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
+[14:41:07] [Server thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
+[14:41:07] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 5 mods to load
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api.entity (owned by customnpcs providing Core|Entities) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api.constants (owned by customnpcs providing Core|Constants) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api.event (owned by customnpcs providing Core|Events) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api.block (owned by customnpcs providing Core|Blocks) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api.entity.data (owned by customnpcs providing Core|Entities|Data) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found API noppes.npcs.api (owned by customnpcs providing Core) embedded in customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core|Events: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core|Entities: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core|Constants: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core|Entities|Data: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core|Blocks: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Core: owner: customnpcs, dependents: []
+[14:41:07] [Server thread/TRACE] [FML/]: Received a system property request ''
+[14:41:07] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[14:41:07] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[14:41:07] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.4.1577-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[14:41:07] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8-11.14.4.1577-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[14:41:07] [Server thread/DEBUG] [customnpcs/]: Enabling mod customnpcs
+[14:41:07] [Server thread/DEBUG] [FML/]: Found translations in CustomNPCs_1.8.0(09jan16).jar [cs_CZ, de_DE, en_US, es_AR, es_MX, fr_FR, hu_HU, id_ID, ko_KR, nl_NL, pl_PL, pt_BR, ru_RU, sv_SE, zh_CN, zh_TW, en_US]
+[14:41:07] [Server thread/DEBUG] [worldedit/]: Enabling mod worldedit
+[14:41:07] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[14:41:07] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[14:41:07] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[14:41:07] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[14:41:07] [Server thread/DEBUG] [FML/]: Mod sorting data
+[14:41:07] [Server thread/DEBUG] [FML/]: 	customnpcs(CustomNPCs:1.8.0): CustomNPCs_1.8.0(09jan16).jar (required-after:Forge@[11.14.1.1334,);)
+[14:41:07] [Server thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1): worldedit-forge-mc1.8-6.1.jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core|Events(API: Core|Events:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core|Entities(API: Core|Entities:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core|Constants(API: Core|Constants:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core|Entities|Data(API: Core|Entities|Data:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core|Blocks(API: Core|Blocks:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/DEBUG] [FML/]: 	Core(API: Core:0.1): CustomNPCs_1.8.0(09jan16).jar ()
+[14:41:07] [Server thread/INFO] [FML/]: FML has found a non-mod file BanManager.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[14:41:07] [Server thread/INFO] [FML/]: FML has found a non-mod file NoSwear.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[14:41:07] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[14:41:07] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[14:41:07] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[14:41:07] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[14:41:07] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[14:41:07] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[14:41:07] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[14:41:07] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, customnpcs, worldedit] at CLIENT
+[14:41:07] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, customnpcs, worldedit] at SERVER
+[14:41:07] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[14:41:07] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.276s
+[14:41:07] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[14:41:07] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[14:41:07] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[14:41:07] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.14.4.1577)
+[14:41:07] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[14:41:07] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.006s
+[14:41:07] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLConstructionEvent to mod customnpcs
+[14:41:07] [Server thread/TRACE] [FML/customnpcs]: Mod customnpcs is using network checker : Accepting version 1.8.0
+[14:41:07] [Server thread/TRACE] [FML/customnpcs]: Testing mod customnpcs to verify it accepts its own version in a remote connection
+[14:41:07] [Server thread/TRACE] [FML/customnpcs]: The mod customnpcs accepts its own version (1.8.0)
+[14:41:07] [Server thread/DEBUG] [FML/customnpcs]: Attempting to inject @SidedProxy classes into customnpcs
+[14:41:08] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLConstructionEvent to mod customnpcs
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Step: Construction - CustomNPCs took 0.056s
+[14:41:08] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
+[14:41:08] [Server thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
+[14:41:08] [Server thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
+[14:41:08] [Server thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1)
+[14:41:08] [Server thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
+[14:41:08] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.054s
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.393s
+[14:41:08] [Server thread/DEBUG] [FML/]: Mod signature data
+[14:41:08] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[14:41:08] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[14:41:08] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[14:41:08] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8-11.14.4.1577-universal.jar
+[14:41:08] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.14.4.1577)	forge-1.8-11.14.4.1577-universal.jar
+[14:41:08] [Server thread/DEBUG] [FML/]: 		customnpcs	(CustomNPCs	1.8.0)	CustomNPCs_1.8.0(09jan16).jar
+[14:41:08] [Server thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1)	worldedit-forge-mc1.8-6.1.jar
+[14:41:08] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[14:41:08] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[14:41:08] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[14:41:08] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[14:41:08] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[14:41:08] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[14:41:08] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[14:41:08] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.011s
+[14:41:08] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[14:41:08] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[14:41:08] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[14:41:08] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.030s
+[14:41:08] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLPreInitializationEvent to mod customnpcs
+[14:41:08] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:41:08] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
 Moved Permanently
-[05:13:50] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
+[14:41:08] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
 	at com.google.gson.Gson.fromJson(Gson.java:815) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
@@ -164,192 +187,720 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[MapTypeAdapterFactory$Adapter.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
 	... 5 more
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.016s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.019s
-[05:13:51] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
-[05:13:51] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
-[05:13:51] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
-[05:13:51] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.001s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.007s
-[05:13:51] [Server thread/INFO] [FML/]: Injecting itemstacks
-[05:13:51] [Server thread/INFO] [FML/]: Itemstack injection complete
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.002s
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.002s
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.120s
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
-[05:13:51] [Server thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1) is loaded
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.005s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.129s
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("Before", UNKNOWN, )
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[05:13:51] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
-[05:13:51] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.011s
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.001s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.013s
-[05:13:51] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
-[05:13:51] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[05:13:51] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[05:13:51] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.001s
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.001s
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.001s
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerAboutToStartEvent to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerAboutToStartEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - WorldEdit took 0.445s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.447s
-[05:13:51] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
-[05:13:51] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[05:13:51] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[05:13:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.002s
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[05:13:51] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[05:13:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.003s
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[05:13:51] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.002s
-[05:13:51] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.008s
-[05:13:51] [Server thread/INFO] [FML/]: Applying holder lookups
-[05:13:51] [Server thread/INFO] [FML/]: Holder lookups applied
-[05:13:51] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
-[05:13:51] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[05:13:51] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[05:13:52] [Server thread/INFO] [FML/]: Loading dimension 0 (torneo) (net.minecraft.server.dedicated.DedicatedServer@16a2299e)
-[05:13:52] [Server thread/INFO] [FML/]: Loading dimension 1 (torneo) (net.minecraft.server.dedicated.DedicatedServer@16a2299e)
-[05:13:52] [Server thread/INFO] [FML/]: Loading dimension -1 (torneo) (net.minecraft.server.dedicated.DedicatedServer@16a2299e)
-[05:13:52] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[05:13:52] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[05:13:52] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[05:13:52] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
-[05:13:52] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
-[05:13:52] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.004s
-[05:13:52] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartingEvent to mod worldedit
-[05:13:52] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartingEvent to mod worldedit
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - WorldEdit took 0.001s
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.006s
-[05:13:52] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[05:13:52] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.001s
-[05:13:52] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[05:13:52] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.001s
-[05:13:52] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
-[05:13:52] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.001s
-[05:13:52] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartedEvent to mod worldedit
-[05:13:52] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartedEvent to mod worldedit
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - WorldEdit took 0.009s
-[05:13:52] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.011s
-[05:14:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.001s
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.003s
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.005s
-[05:14:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
-[05:14:56] [Server thread/INFO] [FML/]: Unloading dimension 0
-[05:14:56] [Server thread/INFO] [FML/]: Unloading dimension -1
-[05:14:56] [Server thread/INFO] [FML/]: Unloading dimension 1
-[05:14:56] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.001s
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
-[05:14:56] [Server thread/INFO] [FML/]: Applying holder lookups
-[05:14:56] [Server thread/INFO] [FML/]: Holder lookups applied
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[05:14:56] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[05:14:56] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.001s
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
-[05:14:56] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
-[05:14:56] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
-[05:14:56] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npchumanmale as customnpcs.npchumanmale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcvillager as customnpcs.npcvillager
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcpony as customnpcs.npcpony
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npchumanfemale as customnpcs.npchumanfemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcdwarfmale as customnpcs.npcdwarfmale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcfurrymale as customnpcs.npcfurrymale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npczombiemale as customnpcs.npczombiemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npczombiefemale as customnpcs.npczombiefemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcskeleton as customnpcs.npcskeleton
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcdwarffemale as customnpcs.npcdwarffemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcfurryfemale as customnpcs.npcfurryfemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcorcfmale as customnpcs.npcorcfmale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcorcfemale as customnpcs.npcorcfemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcelfmale as customnpcs.npcelfmale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcelffemale as customnpcs.npcelffemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npccrystal as customnpcs.npccrystal
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcenderchibi as customnpcs.npcenderchibi
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcnagamale as customnpcs.npcnagamale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcnagafemale as customnpcs.npcnagafemale
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity NpcSlime as customnpcs.NpcSlime
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity NpcDragon as customnpcs.NpcDragon
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcEnderman as customnpcs.npcEnderman
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity npcGolem as customnpcs.npcGolem
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity CustomNpc as customnpcs.CustomNpc
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity CustomNpc64x32 as customnpcs.CustomNpc64x32
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity CustomNpcChairMount as customnpcs.CustomNpcChairMount
+[14:41:08] [Server thread/TRACE] [FML/customnpcs]: Automatically registered mod customnpcs entity throwableitem as customnpcs.throwableitem
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLPreInitializationEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - CustomNPCs took 0.963s
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.017s
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 1.022s
+[14:41:09] [Server thread/INFO] [FML/]: Applying holder lookups
+[14:41:09] [Server thread/INFO] [FML/]: Holder lookups applied
+[14:41:09] [Server thread/INFO] [FML/]: Injecting itemstacks
+[14:41:09] [Server thread/INFO] [FML/]: Itemstack injection complete
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLInitializationEvent to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLInitializationEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - CustomNPCs took 0.004s
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.008s
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.014s
+[14:41:09] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
+[14:41:09] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[14:41:09] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[14:41:09] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event IMCEvent to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event IMCEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - CustomNPCs took 0.002s
+[14:41:09] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.007s
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.015s
+[14:41:09] [Server thread/INFO] [FML/]: Injecting itemstacks
+[14:41:09] [Server thread/INFO] [FML/]: Itemstack injection complete
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.002s
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.011s
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLPostInitializationEvent to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLPostInitializationEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - CustomNPCs took 0.001s
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
+[14:41:09] [Server thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1) is loaded
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.008s
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.022s
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("Before", UNKNOWN, )
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[14:41:09] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[14:41:09] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.015s
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLLoadCompleteEvent to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLLoadCompleteEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - CustomNPCs took 0.001s
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.001s
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.018s
+[14:41:09] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[14:41:09] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[14:41:09] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[14:41:09] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 5 mods
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[14:41:09] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.001s
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[14:41:09] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.001s
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[14:41:09] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.002s
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLServerAboutToStartEvent to mod customnpcs
+[14:41:09] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLServerAboutToStartEvent to mod customnpcs
+[14:41:09] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - CustomNPCs took 0.041s
+[14:41:09] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerAboutToStartEvent to mod worldedit
+[14:41:10] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerAboutToStartEvent to mod worldedit
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - WorldEdit took 0.521s
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.566s
+[14:41:10] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[14:41:10] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[14:41:10] [Server thread/INFO] [FML/]: Injecting new block and item data into this server instance.
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScripted: 203 (init) -> 203 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSign: 223 (init) -> 223 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCopyBlock: 206 (init) -> 206 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCarpentyBench: 199 (init) -> 199 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcRedstoneBlock: 198 (init) -> 198 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBeam: 224 (init) -> 224 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCandleUnlit: 232 (init) -> 232 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTallLamp: 210 (init) -> 210 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWaypoint: 201 (init) -> 201 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBook: 225 (init) -> 225 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrystalBlock: 227 (init) -> 227 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPedestal: 226 (init) -> 226 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStool: 217 (init) -> 217 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBloodBlock: 207 (init) -> 207 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcChair: 211 (init) -> 211 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCandle: 230 (init) -> 230 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTable: 216 (init) -> 216 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWeaponRack: 213 (init) -> 213 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPlaceholder: 218 (init) -> 218 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTombstone: 221 (init) -> 221 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrate: 212 (init) -> 212 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCampfireUnlit: 231 (init) -> 231 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCouchWood: 215 (init) -> 215 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLamp: 229 (init) -> 229 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBanner: 208 (init) -> 208 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBarrel: 220 (init) -> 220 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBuilderBlock: 205 (init) -> 205 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCouchWool: 214 (init) -> 214 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcShelf: 222 (init) -> 222 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCampfire: 228 (init) -> 228 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBorder: 202 (init) -> 202 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMailbox: 200 (init) -> 200 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScriptedDoor: 204 (init) -> 204 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWallBanner: 209 (init) -> 209 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBigSign: 219 (init) -> 219 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLampUnlit: 233 (init) -> 233 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenHalberd: 4224 (init) -> 4224 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilBoots: 4377 (init) -> 4377 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinIron: 4406 (init) -> 4406 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMoney: 4444 (init) -> 4444 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcExcalibur: 4189 (init) -> 4189 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronBroadsword: 4318 (init) -> 4318 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrystal: 4415 (init) -> 4415 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronBattleAxe: 4233 (init) -> 4233 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoulstoneFilled: 4104 (init) -> 4104 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneMace: 4252 (init) -> 4252 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNanorumBoots: 4333 (init) -> 4333 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenGlaive: 4309 (init) -> 4309 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeSword: 4156 (init) -> 4156 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCowleatherLegs: 4328 (init) -> 4328 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldTrident: 4132 (init) -> 4132 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCommissarChest: 4383 (init) -> 4383 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTeleporter: 4101 (init) -> 4101 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilReversedDagger: 4280 (init) -> 4280 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCommissarBottom: 4385 (init) -> 4385 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCarKey: 4424 (init) -> 4424 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicSpear: 4218 (init) -> 4218 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneShield: 4191 (init) -> 4191 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilHalberd: 4230 (init) -> 4230 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondReversedDagger: 4270 (init) -> 4270 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLightningSpell: 4142 (init) -> 4142 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinEmerald: 4409 (init) -> 4409 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronTrident: 4131 (init) -> 4131 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHandCuffs: 4164 (init) -> 4164 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullDiamondHead: 4342 (init) -> 4342 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHockeyStick: 4170 (init) -> 4170 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHammer: 4165 (init) -> 4165 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAssassinHead: 4362 (init) -> 4362 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMounter: 4100 (init) -> 4100 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCryscentShield: 4208 (init) -> 4208 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeWarhammer: 4246 (init) -> 4246 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullEmeraldShield: 4206 (init) -> 4206 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcX407Boots: 4373 (init) -> 4373 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKey: 4425 (init) -> 4425 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeBullet: 4124 (init) -> 4124 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronHalberd: 4223 (init) -> 4223 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldMace: 4257 (init) -> 4257 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCommissarHead: 4382 (init) -> 4382 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldGlaive: 4312 (init) -> 4312 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSledgeHammer: 4171 (init) -> 4171 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullBronzeBoots: 4347 (init) -> 4347 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondDagger: 4269 (init) -> 4269 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcElementalStaff: 4295 (init) -> 4295 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicWarhammer: 4248 (init) -> 4248 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcShuriken: 4152 (init) -> 4152 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWaypoint: 201 (init) -> 201 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBook: 225 (init) -> 225 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcInfantryHelmet: 4386 (init) -> 4386 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStool: 217 (init) -> 217 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLeafBlade: 4179 (init) -> 4179 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondBullet: 4122 (init) -> 4122 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullWoodenBoots: 4355 (init) -> 4355 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWeaponRack: 213 (init) -> 213 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeBroadsword: 4321 (init) -> 4321 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrate: 212 (init) -> 212 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilBattleAxe: 4240 (init) -> 4240 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinGold: 4407 (init) -> 4407 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostBroadsword: 4324 (init) -> 4324 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSatchel: 4413 (init) -> 4413 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullWoodenShield: 4200 (init) -> 4200 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKatana: 4154 (init) -> 4154 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLeadPipe: 4167 (init) -> 4167 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronSpear: 4213 (init) -> 4213 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeHalberd: 4226 (init) -> 4226 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostStaff: 4293 (init) -> 4293 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenStaff: 4285 (init) -> 4285 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBlackBullet: 4128 (init) -> 4128 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenShield: 4193 (init) -> 4193 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenScythe: 4299 (init) -> 4299 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostReversedDagger: 4278 (init) -> 4278 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenBroadsword: 4316 (init) -> 4316 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNecklace: 4445 (init) -> 4445 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullLeatherHead: 4336 (init) -> 4336 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCursedTrident: 4136 (init) -> 4136 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcOrb: 4147 (init) -> 4147 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldShield: 4196 (init) -> 4196 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldScythe: 4301 (init) -> 4301 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSteelClaw: 4282 (init) -> 4282 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCowleatherBoots: 4329 (init) -> 4329 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrowbar: 4185 (init) -> 4185 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBigSign: 219 (init) -> 219 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcRapier: 4184 (init) -> 4184 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicChest: 4379 (init) -> 4379 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldTrident: 4135 (init) -> 4135 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCopyBlock: 206 (init) -> 206 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronDagger: 4265 (init) -> 4265 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBanditMask: 4418 (init) -> 4418 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLocket: 4439 (init) -> 4439 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWizardPants: 4361 (init) -> 4361 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicMace: 4258 (init) -> 4258 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNinjaClaw: 4281 (init) -> 4281 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTacticalChest: 4335 (init) -> 4335 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCandle: 230 (init) -> 230 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoldierLegs: 4368 (init) -> 4368 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldSkirt: 4396 (init) -> 4396 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilLegs: 4376 (init) -> 4376 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeSkirt: 4400 (init) -> 4400 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTacticalHead: 4334 (init) -> 4334 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeScythe: 4302 (init) -> 4302 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostTrident: 4138 (init) -> 4138 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldReversedDagger: 4274 (init) -> 4274 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostBattleAxe: 4239 (init) -> 4239 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenSpear: 4211 (init) -> 4211 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenBattleAxe: 4234 (init) -> 4234 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinWooden: 4403 (init) -> 4403 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGolfClub: 4161 (init) -> 4161 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullWoodenHead: 4352 (init) -> 4352 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostDagger: 4277 (init) -> 4277 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBatton: 4182 (init) -> 4182 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenWarhammer: 4241 (init) -> 4241 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSign: 223 (init) -> 223 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKunai: 4150 (init) -> 4150 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrossBolt: 4181 (init) -> 4181 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldBattleAxe: 4237 (init) -> 4237 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenTrident: 4129 (init) -> 4129 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPlaceholder: 218 (init) -> 218 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenSpear: 4214 (init) -> 4214 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTombstone: 221 (init) -> 221 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilGlaive: 4315 (init) -> 4315 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronBullet: 4118 (init) -> 4118 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcChickenSword: 4163 (init) -> 4163 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenBroadsword: 4319 (init) -> 4319 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcArtifact: 4438 (init) -> 4438 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronGun: 4117 (init) -> 4117 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWrench: 4188 (init) -> 4188 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSaiBlade: 4176 (init) -> 4176 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenShield: 4190 (init) -> 4190 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWaterElement: 4421 (init) -> 4421 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenBattleAxe: 4231 (init) -> 4231 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullBronzeLeggings: 4346 (init) -> 4346 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBorder: 202 (init) -> 202 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldSpear: 4217 (init) -> 4217 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicShield: 4197 (init) -> 4197 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicScythe: 4303 (init) -> 4303 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKey2: 4426 (init) -> 4426 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWand: 4096 (init) -> 4096 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrown: 4389 (init) -> 4389 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCarpentyBench: 199 (init) -> 199 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMobCloner: 4097 (init) -> 4097 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilTrident: 4139 (init) -> 4139 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPendant: 4427 (init) -> 4427 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneReversedDagger: 4264 (init) -> 4264 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTowerShield: 4210 (init) -> 4210 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAssassinLeggings: 4364 (init) -> 4364 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrown2: 4388 (init) -> 4388 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAmethyst: 4433 (init) -> 4433 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondTrident: 4133 (init) -> 4133 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoldierBottom: 4369 (init) -> 4369 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenReversedDagger: 4268 (init) -> 4268 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeShield: 4195 (init) -> 4195 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcViolinBow: 4107 (init) -> 4107 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLamp: 229 (init) -> 229 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcRuby: 4432 (init) -> 4432 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostSword: 4159 (init) -> 4159 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeGlaive: 4311 (init) -> 4311 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCowleatherChest: 4327 (init) -> 4327 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLeatherSkirt: 4395 (init) -> 4395 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTablet: 4442 (init) -> 4442 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullBronzeChest: 4345 (init) -> 4345 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNinjaHead: 4391 (init) -> 4391 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronStaff: 4287 (init) -> 4287 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSaber: 4169 (init) -> 4169 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilShield: 4199 (init) -> 4199 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilScythe: 4305 (init) -> 4305 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneGun: 4115 (init) -> 4115 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeStaff: 4290 (init) -> 4290 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNanorumHead: 4330 (init) -> 4330 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilChest: 4375 (init) -> 4375 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTable: 216 (init) -> 216 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMana: 4148 (init) -> 4148 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHeart: 4443 (init) -> 4443 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondGun: 4121 (init) -> 4121 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTuxedoChest: 4356 (init) -> 4356 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcX407Chest: 4371 (init) -> 4371 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicLegs: 4380 (init) -> 4380 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSilk: 4440 (init) -> 4440 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBrokenArrow: 4419 (init) -> 4419 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostMace: 4259 (init) -> 4259 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicGlaive: 4313 (init) -> 4313 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneWarhammer: 4242 (init) -> 4242 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLetter: 4411 (init) -> 4411 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronSkirt: 4397 (init) -> 4397 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEarthElement: 4420 (init) -> 4420 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilSword: 4160 (init) -> 4160 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcOcarina: 4111 (init) -> 4111 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostWarhammer: 4249 (init) -> 4249 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenGlaive: 4306 (init) -> 4306 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcArcaneSpell: 4141 (init) -> 4141 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcRing: 4429 (init) -> 4429 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGiantShuriken: 4153 (init) -> 4153 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullBronzeShield: 4205 (init) -> 4205 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBag: 4414 (init) -> 4414 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneSpear: 4212 (init) -> 4212 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldStaff: 4291 (init) -> 4291 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoldierChest: 4367 (init) -> 4367 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondScythe: 4300 (init) -> 4300 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcViolin: 4106 (init) -> 4106 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKatar: 4284 (init) -> 4284 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneTrident: 4130 (init) -> 4130 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondMace: 4255 (init) -> 4255 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneBattleAxe: 4232 (init) -> 4232 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenDagger: 4267 (init) -> 4267 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicHead: 4378 (init) -> 4378 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNinjaPants: 4393 (init) -> 4393 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeMace: 4256 (init) -> 4256 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldSkirt: 4399 (init) -> 4399 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSeveredEar: 4416 (init) -> 4416 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAssassinBoots: 4365 (init) -> 4365 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStatuette: 4441 (init) -> 4441 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldBroadsword: 4322 (init) -> 4322 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCommissarLegs: 4384 (init) -> 4384 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNinjaChest: 4392 (init) -> 4392 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcLampUnlit: 233 (init) -> 233 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCombatKnive: 4173 (init) -> 4173 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilMace: 4260 (init) -> 4260 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondBroadsword: 4320 (init) -> 4320 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullStoneShield: 4201 (init) -> 4201 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenStaff: 4288 (init) -> 4288 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTuxedoBottom: 4358 (init) -> 4358 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAirElement: 4423 (init) -> 4423 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicIngot: 4435 (init) -> 4435 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSkull: 4430 (init) -> 4430 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenScythe: 4296 (init) -> 4296 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneBullet: 4116 (init) -> 4116 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneDagger: 4263 (init) -> 4263 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullGoldChest: 4341 (init) -> 4341 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenReversedDagger: 4262 (init) -> 4262 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenBullet: 4120 (init) -> 4120 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHarp: 4108 (init) -> 4108 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldWarhammer: 4247 (init) -> 4247 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPlans: 4412 (init) -> 4412 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronReversedDagger: 4266 (init) -> 4266 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMusket: 4178 (init) -> 4178 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenWarhammer: 4244 (init) -> 4244 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullIronShield: 4202 (init) -> 4202 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBanjo: 4105 (init) -> 4105 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilBroadsword: 4325 (init) -> 4325 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenMace: 4251 (init) -> 4251 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenHalberd: 4221 (init) -> 4221 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCouchWood: 215 (init) -> 215 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostHalberd: 4229 (init) -> 4229 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondHalberd: 4225 (init) -> 4225 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGuitar: 4109 (init) -> 4109 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullIronHead: 4338 (init) -> 4338 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldGun: 4125 (init) -> 4125 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCouchWool: 214 (init) -> 214 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMacuahuitl: 4174 (init) -> 4174 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSlingshot: 4177 (init) -> 4177 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMailbox: 200 (init) -> 200 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeBattleAxe: 4236 (init) -> 4236 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondStaff: 4289 (init) -> 4289 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScriptedDoorTool: 4102 (init) -> 4102 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeSpear: 4216 (init) -> 4216 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcOfficerChest: 4387 (init) -> 4387 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullEmeraldLeggings: 4350 (init) -> 4350 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTallLamp: 210 (init) -> 210 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrystalBlock: 227 (init) -> 227 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilStaff: 4294 (init) -> 4294 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldDagger: 4273 (init) -> 4273 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldHalberd: 4227 (init) -> 4227 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWizardHead: 4359 (init) -> 4359 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCrossbow: 4180 (init) -> 4180 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondSkirt: 4398 (init) -> 4398 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicSword: 4158 (init) -> 4158 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAssassinChest: 4363 (init) -> 4363 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinBronze: 4405 (init) -> 4405 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondGlaive: 4310 (init) -> 4310 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCowleatherHead: 4326 (init) -> 4326 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilSkirt: 4402 (init) -> 4402 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCampfire: 228 (init) -> 228 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScutumShield: 4209 (init) -> 4209 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronWarhammer: 4243 (init) -> 4243 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoulstoneEmpty: 4103 (init) -> 4103 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullIronChest: 4339 (init) -> 4339 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcX407Legs: 4372 (init) -> 4372 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFireSpell: 4144 (init) -> 4144 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneBroadsword: 4317 (init) -> 4317 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenBullet: 4114 (init) -> 4114 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeReversedDagger: 4272 (init) -> 4272 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPaperCrown: 4390 (init) -> 4390 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicSkirt: 4401 (init) -> 4401 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcTuxedoPants: 4357 (init) -> 4357 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicHalberd: 4228 (init) -> 4228 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcClarinet: 4112 (init) -> 4112 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNatureSpell: 4140 (init) -> 4140 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPedestal: 226 (init) -> 226 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicBroadsword: 4323 (init) -> 4323 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBloodBlock: 207 (init) -> 207 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullDiamondChest: 4343 (init) -> 4343 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHolySpell: 4146 (init) -> 4146 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNanorumLegs: 4332 (init) -> 4332 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicDagger: 4275 (init) -> 4275 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCampfireUnlit: 231 (init) -> 231 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronGlaive: 4308 (init) -> 4308 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFireElement: 4422 (init) -> 4422 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBanner: 208 (init) -> 208 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilIngot: 4436 (init) -> 4436 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMovingPath: 4099 (init) -> 4099 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilDagger: 4279 (init) -> 4279 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilSpear: 4220 (init) -> 4220 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCleaver: 4168 (init) -> 4168 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcX407Head: 4370 (init) -> 4370 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldSword: 4157 (init) -> 4157 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneStaff: 4286 (init) -> 4286 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAncientCoin: 4410 (init) -> 4410 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondBattleAxe: 4235 (init) -> 4235 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcHeaterShield: 4207 (init) -> 4207 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScripted: 203 (init) -> 203 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicBattleAxe: 4238 (init) -> 4238 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullLeatherChest: 4337 (init) -> 4337 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenDagger: 4261 (init) -> 4261 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneScythe: 4297 (init) -> 4297 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostGlaive: 4314 (init) -> 4314 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSwissArmyKnife: 4187 (init) -> 4187 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBeam: 224 (init) -> 224 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCandleUnlit: 232 (init) -> 232 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBaseballBat: 4166 (init) -> 4166 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrenchHorn: 4110 (init) -> 4110 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeTrident: 4134 (init) -> 4134 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBrokenOrb: 4149 (init) -> 4149 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilWarhammer: 4250 (init) -> 4250 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSoldierHead: 4366 (init) -> 4366 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronMace: 4253 (init) -> 4253 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcNanorumChest: 4331 (init) -> 4331 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldenMace: 4254 (init) -> 4254 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullEmeraldBoots: 4351 (init) -> 4351 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullWoodenChest: 4353 (init) -> 4353 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcShelf: 222 (init) -> 222 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMithrilHead: 4374 (init) -> 4374 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScripter: 4098 (init) -> 4098 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinStone: 4404 (init) -> 4404 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullEmeraldChest: 4349 (init) -> 4349 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPhone: 4417 (init) -> 4417 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullBronzeHead: 4344 (init) -> 4344 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBlueprint: 4428 (init) -> 4428 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcRedstoneBlock: 198 (init) -> 198 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMagicWand: 4162 (init) -> 4162 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBearClaw: 4283 (init) -> 4283 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcKukri: 4155 (init) -> 4155 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcChair: 211 (init) -> 211 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDarkSpell: 4145 (init) -> 4145 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBoStaff: 4175 (init) -> 4175 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullEmeraldHead: 4348 (init) -> 4348 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondSpear: 4215 (init) -> 4215 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBarrel: 220 (init) -> 220 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneGlaive: 4307 (init) -> 4307 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicBoots: 4381 (init) -> 4381 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeGun: 4123 (init) -> 4123 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcUsbStick: 4446 (init) -> 4446 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBrokenBottle: 4172 (init) -> 4172 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcChainSkirt: 4394 (init) -> 4394 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcEmeraldBullet: 4126 (init) -> 4126 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcCoinDiamond: 4408 (init) -> 4408 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeDagger: 4271 (init) -> 4271 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcMachineGun: 4127 (init) -> 4127 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcStoneHalberd: 4222 (init) -> 4222 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGoldGun: 4119 (init) -> 4119 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicStaff: 4292 (init) -> 4292 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcReverseKunai: 4151 (init) -> 4151 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicReversedDagger: 4276 (init) -> 4276 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullWoodenLeggings: 4354 (init) -> 4354 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBronzeIngot: 4434 (init) -> 4434 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullGoldenShield: 4203 (init) -> 4203 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcSaphire: 4431 (init) -> 4431 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcAncientScroll: 4437 (init) -> 4437 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWoodenGun: 4113 (init) -> 4113 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDemonicTrident: 4137 (init) -> 4137 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcGunChainsaw: 4183 (init) -> 4183 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostShield: 4198 (init) -> 4198 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostScythe: 4304 (init) -> 4304 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullGoldHead: 4340 (init) -> 4340 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIceSpell: 4143 (init) -> 4143 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcBuilderBlock: 205 (init) -> 205 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronShield: 4192 (init) -> 4192 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcIronScythe: 4298 (init) -> 4298 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiaShield: 4194 (init) -> 4194 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcDiamondWarhammer: 4245 (init) -> 4245 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWizardChest: 4360 (init) -> 4360 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFullDiaShield: 4204 (init) -> 4204 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcPipeWrench: 4186 (init) -> 4186 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcFrostSpear: 4219 (init) -> 4219 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcScriptedDoor: 204 (init) -> 204 (map).
+[14:41:10] [Server thread/INFO] [FML/]: Injected new block/item customnpcs:npcWallBanner: 209 (init) -> 209 (map).
+[14:41:10] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[14:41:10] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[14:41:10] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[14:41:10] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[14:41:10] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[14:41:10] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[14:41:10] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[14:41:10] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLModIdMappingEvent to mod customnpcs
+[14:41:10] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLModIdMappingEvent to mod customnpcs
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - CustomNPCs took 0.000s
+[14:41:10] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
+[14:41:10] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
+[14:41:10] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[14:41:10] [Server thread/INFO] [FML/]: Applying holder lookups
+[14:41:10] [Server thread/INFO] [FML/]: Holder lookups applied
+[14:41:10] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[14:41:10] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[14:41:10] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[14:41:10] [Server thread/INFO] [FML/]: Loading dimension 0 (torneo) (net.minecraft.server.dedicated.DedicatedServer@449a4cc)
+[14:41:10] [Server thread/INFO] [FML/]: Loading dimension 1 (torneo) (net.minecraft.server.dedicated.DedicatedServer@449a4cc)
+[14:41:10] [Server thread/INFO] [FML/]: Loading dimension -1 (torneo) (net.minecraft.server.dedicated.DedicatedServer@449a4cc)
+[14:41:11] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[14:41:11] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[14:41:11] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[14:41:11] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[14:41:11] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[14:41:11] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[14:41:11] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLServerStartingEvent to mod customnpcs
+[14:41:11] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLServerStartingEvent to mod customnpcs
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - CustomNPCs took 0.032s
+[14:41:11] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartingEvent to mod worldedit
+[14:41:11] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartingEvent to mod worldedit
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - WorldEdit took 0.000s
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.036s
+[14:41:11] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[14:41:11] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[14:41:11] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[14:41:11] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[14:41:11] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[14:41:11] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[14:41:11] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLServerStartedEvent to mod customnpcs
+[14:41:11] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLServerStartedEvent to mod customnpcs
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - CustomNPCs took 0.071s
+[14:41:11] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartedEvent to mod worldedit
+[14:41:11] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartedEvent to mod worldedit
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - WorldEdit took 0.006s
+[14:41:11] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.078s
+[14:41:21] [Netty Server IO #3/TRACE] [FML/]: Handshake channel activating
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[14:41:21] [Netty Server IO #3/INFO] [FML/]: Client protocol version 2
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:3 mods->FMLHandshakeServerState$2:HELLO
+[14:41:21] [Netty Server IO #3/INFO] [FML/]: Client attempting to join with 3 mods : FML@8.0.99.99,Forge@11.14.4.1563,mcp@9.05
+[14:41:21] [Netty Server IO #3/INFO] [FML/]: Attempting connection with missing mods [customnpcs, worldedit] at CLIENT
+[14:41:21] [Netty Server IO #3/INFO] [FML/]: Rejecting connection CLIENT: [FMLMod:customnpcs{1.8.0}]
+[14:41:21] [Netty Server IO #3/DEBUG] [FML/]:   Next: ERROR
+[14:41:30] [Netty Server IO #1/TRACE] [FML/]: Handshake channel activating
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[14:41:30] [Netty Server IO #1/INFO] [FML/]: Client protocol version 2
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:3 mods->FMLHandshakeServerState$2:HELLO
+[14:41:30] [Netty Server IO #1/INFO] [FML/]: Client attempting to join with 3 mods : FML@8.0.99.99,Forge@11.14.4.1563,mcp@9.05
+[14:41:30] [Netty Server IO #1/INFO] [FML/]: Attempting connection with missing mods [customnpcs, worldedit] at CLIENT
+[14:41:30] [Netty Server IO #1/INFO] [FML/]: Rejecting connection CLIENT: [FMLMod:customnpcs{1.8.0}]
+[14:41:30] [Netty Server IO #1/DEBUG] [FML/]:   Next: ERROR
+[14:41:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[14:41:57] [Netty Server IO #3/TRACE] [FML/]: Handshake channel activating
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[14:41:57] [Netty Server IO #3/INFO] [FML/]: Client protocol version 2
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:3 mods->FMLHandshakeServerState$2:HELLO
+[14:41:57] [Netty Server IO #3/INFO] [FML/]: Client attempting to join with 3 mods : FML@8.0.99.99,Forge@11.14.4.1563,mcp@9.05
+[14:41:57] [Netty Server IO #3/INFO] [FML/]: Attempting connection with missing mods [customnpcs, worldedit] at CLIENT
+[14:41:57] [Netty Server IO #3/INFO] [FML/]: Rejecting connection CLIENT: [FMLMod:customnpcs{1.8.0}]
+[14:41:57] [Netty Server IO #3/DEBUG] [FML/]:   Next: ERROR
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLServerStoppingEvent to mod customnpcs
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLServerStoppingEvent to mod customnpcs
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - CustomNPCs took 0.000s
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.001s
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[14:42:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[14:42:14] [Server thread/INFO] [FML/]: Unloading dimension 0
+[14:42:14] [Server thread/INFO] [FML/]: Unloading dimension -1
+[14:42:14] [Server thread/INFO] [FML/]: Unloading dimension 1
+[14:42:14] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.000s
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLModIdMappingEvent to mod customnpcs
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLModIdMappingEvent to mod customnpcs
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - CustomNPCs took 0.000s
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.001s
+[14:42:14] [Server thread/INFO] [FML/]: Applying holder lookups
+[14:42:14] [Server thread/INFO] [FML/]: Holder lookups applied
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[14:42:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[14:42:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[14:42:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sending event FMLServerStoppedEvent to mod customnpcs
+[14:42:14] [Server thread/TRACE] [customnpcs/customnpcs]: Sent event FMLServerStoppedEvent to mod customnpcs
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - CustomNPCs took 0.000s
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
+[14:42:14] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
+[14:42:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.003s

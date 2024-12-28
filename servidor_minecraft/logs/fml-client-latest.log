@@ -1,0 +1,254 @@
+[14:36:09] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[14:36:09] [main/INFO] [FML/]: Forge Mod Loader version 11.14.4.1577 for Minecraft 1.8 loading
+[14:36:09] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[14:36:09] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar
+[14:36:09] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEI2nRuc6:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[14:36:09] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[14:36:09] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[14:36:09] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[14:36:09] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[14:36:09] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[14:36:09] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[14:36:09] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[14:36:09] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/TORNEOFINAL/servidor_minecraft/.
+[14:36:09] [main/DEBUG] [FML/]: Discovering coremods
+[14:36:09] [main/DEBUG] [FML/]: Examining for coremod candidacy BanManager.jar
+[14:36:09] [main/DEBUG] [FML/]: Not found coremod data in BanManager.jar
+[14:36:09] [main/DEBUG] [FML/]: Examining for coremod candidacy essential_1-3-5-5_forge_1-8-9.jar
+[14:36:09] [main/INFO] [FML/]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from essential_1-3-5-5_forge_1-8-9.jar
+[14:36:09] [main/DEBUG] [FML/]: Examining for coremod candidacy IPBan.jar
+[14:36:09] [main/DEBUG] [FML/]: Not found coremod data in IPBan.jar
+[14:36:09] [main/DEBUG] [FML/]: Examining for coremod candidacy NoSwear.jar
+[14:36:09] [main/DEBUG] [FML/]: Not found coremod data in NoSwear.jar
+[14:36:09] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.8-6.1.jar
+[14:36:09] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.8-6.1.jar
+[14:36:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:36:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name gg.essential.loader.stage0.EssentialSetupTweaker
+[14:36:09] [main/DEBUG] [gg.essential.loader.stage0.EssentialLoader/]: Found stage1 version 9: file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/loader/stage0/launchwrapper/stage1.jar
+[14:36:09] [main/DEBUG] [gg.essential.loader.stage0.EssentialLoader/]: Found stage1 version 9: jar:file:/workspaces/TORNEOFINAL/servidor_minecraft/mods/essential_1-3-5-5_forge_1-8-9.jar!/gg/essential/loader/stage0/stage1.jar
+[14:36:09] [main/DEBUG] [gg.essential.loader.stage0.EssentialLoader/]: Found stage1 version 9: jar:file:/workspaces/TORNEOFINAL/servidor_minecraft/mods/essential_1-3-5-5_forge_1-8-9.jar!/gg/essential/loader/stage0/stage1.jar
+[14:36:09] [main/TRACE] [gg.essential.loader.stage1.EssentialLoaderBase/]: Reading properties file at jar:file:/workspaces/TORNEOFINAL/servidor_minecraft/mods/essential_1-3-5-5_forge_1-8-9.jar!/essential-loader-stage2.properties
+[14:36:09] [main/TRACE] [gg.essential.loader.stage1.EssentialLoaderBase/]: Reading properties file at jar:file:/workspaces/TORNEOFINAL/servidor_minecraft/mods/essential_1-3-5-5_forge_1-8-9.jar!/essential-loader-stage2.properties
+[14:36:09] [main/INFO] [gg.essential.loader.stage1.EssentialLoaderBase/]: Starting Essential Loader (stage2) version 1.6.3 (04447d7f5abf361e4fe3d7d995d4d000) [stable]
+[14:36:09] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Found ASM null loaded, we bundle 5.2
+[14:36:09] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading kotlin from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 649065222ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading kotlinx/coroutines from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 93387360ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading gg/essential/universal from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 6456352ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading gg/essential/elementa from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 106245864ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading gg/essential/vigilance from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 45356674ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading codes/som/anthony/koffee from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 3045541ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading org/kodein from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 21115625ns.
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Pre-loading org/spongepowered from /workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential (forge_1.8).processed.jar..
+[14:36:10] [main/DEBUG] [gg.essential.loader.stage2.EssentialLoader/]: Done after 35104448ns.
+[14:36:10] [main/INFO] [STDOUT/]: [gg.essential.loader.stage2.EssentialLoader:injectMixinTweaker:395]: Injecting MixinTweaker from EssentialLoader
+[14:36:10] [main/DEBUG] [mixin/]: Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[14:36:10] [main/DEBUG] [mixin/]: MixinService [LaunchWrapper] was successfully booted in gg.essential.loader.stage2.relaunch.RelaunchClassLoader@4386f16
+[14:36:11] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar Service=LaunchWrapper Env=CLIENT
+[14:36:11] [main/DEBUG] [mixin/]: Error cleaning class output directory: .mixin.out/class: failed to delete one or more files; see suppressed exceptions for details
+[14:36:11] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #1
+[14:36:11] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[14:36:11] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar)
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/Essential%20(forge_1.8).processed.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/forge-1.8-11.14.4.1577-universal.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/loader/stage0/launchwrapper/stage1.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/loader/stage1/launchwrapper/stage2.forge_1.8.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/mods/essential_1-3-5-5_forge_1-8-9.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/loader/stage0/launchwrapper/stage1.jar for mixin tweaker
+[14:36:11] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/workspaces/TORNEOFINAL/servidor_minecraft/./essential/loader/stage1/launchwrapper/stage2.forge_1.8.jar for mixin tweaker
+[14:36:11] [main/ERROR] [LaunchWrapper/]: Unable to launch
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:28) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [essential_1-3-5-5_forge_1-8-9.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_432]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [forge-1.8-11.14.4.1577-universal.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [forge-1.8-11.14.4.1577-universal.jar:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 40 more
+Caused by: java.lang.NoSuchFieldException: ignoredModFiles
+	at java.lang.Class.getDeclaredField(Class.java:2070) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialSetupTweaker$Forge$Impl.setupSourceFile(EssentialSetupTweaker.java:130) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker$Forge$Impl.setupPostLoad(EssentialSetupTweaker.java:122) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:46) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 40 more
+[14:36:11] [main/ERROR] [LaunchWrapper/]: Unable to launch
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:28) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43) [forge-1.8-11.14.4.1577-universal.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12) [forge-1.8-11.14.4.1577-universal.jar:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 13 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 13 more
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:128) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.8.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 13 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.8.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 13 more
+Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:30) ~[forge-1.8-11.14.4.1577-universal.jar:?]
+	at java.lang.SecurityManager.checkExit(SecurityManager.java:761) ~[?:1.8.0_432]
+	at java.lang.Runtime.exit(Runtime.java:101) ~[?:1.8.0_432]
+	at java.lang.System.exit(System.java:987) ~[?:1.8.0_432]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) ~[launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) ~[stage2.forge_1.8.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) ~[stage2.forge_1.8.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) ~[stage1.jar:9]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) ~[stage1.jar:9]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_432]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_432]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) ~[essential_1-3-5-5_forge_1-8-9.jar:?]
+	... 13 more
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.reflect.InvocationTargetException
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:30)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Runtime.exit(Runtime.java:101)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.System.exit(System.java:987)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[14:36:11] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	... 6 more
