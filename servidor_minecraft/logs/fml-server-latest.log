@@ -338,3 +338,61 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [04:48:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [04:48:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [04:49:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:50:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:51:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:51:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:52:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:53:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:54:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:54:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:55:20] [Server thread/INFO] [FML/]: Connection received without FML marker, assuming vanilla.
+[04:55:20] [Netty Server IO #0/INFO] [FML/]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[04:55:20] [Server thread/INFO] [FML/]: [Server thread] Server side vanilla connection established
+[04:55:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:56:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.001s
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[04:56:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[04:56:41] [Server thread/INFO] [FML/]: Unloading dimension 0
+[04:56:41] [Server thread/INFO] [FML/]: Unloading dimension -1
+[04:56:41] [Server thread/INFO] [FML/]: Unloading dimension 1
+[04:56:41] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.001s
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[04:56:41] [Server thread/INFO] [FML/]: Applying holder lookups
+[04:56:41] [Server thread/INFO] [FML/]: Holder lookups applied
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[04:56:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[04:56:41] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[04:56:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
+[04:56:41] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
+[04:56:41] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
