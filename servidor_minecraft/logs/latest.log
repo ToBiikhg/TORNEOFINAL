@@ -1,123 +1,46 @@
-[05:25:41] [Server thread/INFO]: Starting minecraft server version 1.8
-[05:25:43] [Server thread/INFO]: Loading properties
-[05:25:43] [Server thread/INFO]: Default game type: ADVENTURE
-[05:25:43] [Server thread/INFO]: Generating keypair
-[05:25:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:25:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:25:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:25:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:25:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:25:44] [Server thread/INFO]: Preparing level "torneo"
-[05:25:44] [Server thread/INFO]: Preparing start region for level 0
-[05:25:45] [Server thread/INFO]: Done (1.065s)! For help, type "help" or "?"
-[05:25:53] [Server thread/INFO]: ToBiik_[/127.135.168.66:34867] logged in with entity id 18 at (0.48960482401745653, 24.300740180417602, -0.22843467683820037)
-[05:25:53] [Server thread/INFO]: ToBiik_ joined the game
-[05:26:20] [Server thread/INFO]: <ToBiik_> ipban.use
-[05:26:33] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:26:33] [Server thread/INFO]: [@: Set the time to 1000]
-[05:26:33] [Server thread/INFO]: [@: Changing to clear weather]
-[05:27:06] [Server thread/INFO]: <ToBiik_> holapato.com
-[05:27:19] [Server thread/INFO]: INSANO_AP[/127.79.209.127:48235] logged in with entity id 19 at (-9.613620277723932, 4.0, -4.281119457386784)
-[05:27:19] [Server thread/INFO]: INSANO_AP joined the game
-[05:27:24] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:27:24] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:27:24] [Server thread/INFO]: [@: Set the time to 1000]
-[05:27:24] [Server thread/INFO]: [@: Changing to clear weather]
-[05:28:15] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:28:15] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:28:15] [Server thread/INFO]: [@: Set the time to 1000]
-[05:28:15] [Server thread/INFO]: [@: Changing to clear weather]
-[05:28:52] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:28:52] [Server thread/INFO]: ToBiik_ left the game
-[05:29:05] [Server thread/INFO]: ToBiik_[/127.135.168.66:35295] logged in with entity id 20 at (-4.200360015769624, 20.59706545601077, 20.895486920686473)
-[05:29:05] [Server thread/INFO]: ToBiik_ joined the game
-[05:29:06] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:29:06] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:29:06] [Server thread/INFO]: [@: Set the time to 1000]
-[05:29:06] [Server thread/INFO]: [@: Changing to clear weather]
-[05:29:57] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:29:57] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:29:57] [Server thread/INFO]: [@: Set the time to 1000]
-[05:29:57] [Server thread/INFO]: [@: Changing to clear weather]
-[05:30:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:30:49] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:30:49] [Server thread/INFO]: [@: Set the time to 1000]
-[05:30:49] [Server thread/INFO]: [@: Changing to clear weather]
-[05:31:40] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:31:40] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:31:40] [Server thread/INFO]: [@: Set the time to 1000]
-[05:31:40] [Server thread/INFO]: [@: Changing to clear weather]
-[05:32:31] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:32:31] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:32:31] [Server thread/INFO]: [@: Set the time to 1000]
-[05:32:31] [Server thread/INFO]: [@: Changing to clear weather]
-[05:33:22] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:33:22] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:33:22] [Server thread/INFO]: [@: Set the time to 1000]
-[05:33:22] [Server thread/INFO]: [@: Changing to clear weather]
-[05:34:13] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:34:13] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:34:13] [Server thread/INFO]: [@: Set the time to 1000]
-[05:34:13] [Server thread/INFO]: [@: Changing to clear weather]
-[05:35:04] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:35:04] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:35:04] [Server thread/INFO]: [@: Set the time to 1000]
-[05:35:04] [Server thread/INFO]: [@: Changing to clear weather]
-[05:35:55] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:35:55] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:35:55] [Server thread/INFO]: [@: Set the time to 1000]
-[05:35:55] [Server thread/INFO]: [@: Changing to clear weather]
-[05:36:47] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:36:47] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:36:47] [Server thread/INFO]: [@: Set the time to 1000]
-[05:36:47] [Server thread/INFO]: [@: Changing to clear weather]
-[05:37:38] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:37:38] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:37:38] [Server thread/INFO]: [@: Set the time to 1000]
-[05:37:38] [Server thread/INFO]: [@: Changing to clear weather]
-[05:38:29] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:38:29] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:38:29] [Server thread/INFO]: [@: Set the time to 1000]
-[05:38:29] [Server thread/INFO]: [@: Changing to clear weather]
-[05:39:20] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:39:20] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:39:20] [Server thread/INFO]: [@: Set the time to 1000]
-[05:39:20] [Server thread/INFO]: [@: Changing to clear weather]
-[05:40:11] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:40:11] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:40:11] [Server thread/INFO]: [@: Set the time to 1000]
-[05:40:11] [Server thread/INFO]: [@: Changing to clear weather]
-[05:41:02] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:41:02] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:41:02] [Server thread/INFO]: [@: Set the time to 1000]
-[05:41:02] [Server thread/INFO]: [@: Changing to clear weather]
-[05:41:53] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:41:53] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:41:53] [Server thread/INFO]: [@: Set the time to 1000]
-[05:41:53] [Server thread/INFO]: [@: Changing to clear weather]
-[05:42:45] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:42:45] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:42:45] [Server thread/INFO]: [@: Set the time to 1000]
-[05:42:45] [Server thread/INFO]: [@: Changing to clear weather]
-[05:43:36] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:43:36] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:43:36] [Server thread/INFO]: [@: Set the time to 1000]
-[05:43:36] [Server thread/INFO]: [@: Changing to clear weather]
-[05:44:27] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:44:27] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:44:27] [Server thread/INFO]: [@: Set the time to 1000]
-[05:44:27] [Server thread/INFO]: [@: Changing to clear weather]
-[05:45:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:45:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:45:18] [Server thread/INFO]: [@: Set the time to 1000]
-[05:45:18] [Server thread/INFO]: [@: Changing to clear weather]
-[05:46:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
-[05:46:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
-[05:46:09] [Server thread/INFO]: [@: Set the time to 1000]
-[05:46:09] [Server thread/INFO]: [@: Changing to clear weather]
-[05:46:10] [Server thread/INFO]: Stopping server
-[05:46:10] [Server thread/INFO]: Saving players
-[05:46:10] [Server thread/INFO]: Saving worlds
-[05:46:10] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[05:46:10] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[05:46:10] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[05:46:41] [Server thread/INFO]: Starting minecraft server version 1.8
+[05:46:43] [Server thread/INFO]: Loading properties
+[05:46:43] [Server thread/INFO]: Default game type: ADVENTURE
+[05:46:43] [Server thread/INFO]: Generating keypair
+[05:46:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:46:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:46:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:46:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:46:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:46:44] [Server thread/INFO]: Preparing level "torneo"
+[05:46:44] [Server thread/INFO]: Preparing start region for level 0
+[05:46:44] [Server thread/INFO]: Done (1.361s)! For help, type "help" or "?"
+[05:46:50] [Server thread/INFO]: ToBiik_[/127.135.168.66:53425] logged in with entity id 18 at (-4.84660677795986, 20.59706545601077, 19.58778020479588)
+[05:46:50] [Server thread/INFO]: ToBiik_ joined the game
+[05:46:54] [Server thread/INFO]: INSANO_AP[/127.79.209.127:47197] logged in with entity id 19 at (-8.973906462178432, 33.95119906778019, -40.197287998508905)
+[05:46:54] [Server thread/INFO]: INSANO_AP joined the game
+[05:47:35] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:47:35] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:47:35] [Server thread/INFO]: [@: Set the time to 1000]
+[05:47:35] [Server thread/INFO]: [@: Changing to clear weather]
+[05:48:26] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:48:26] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:48:26] [Server thread/INFO]: [@: Set the time to 1000]
+[05:48:26] [Server thread/INFO]: [@: Changing to clear weather]
+[05:49:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:49:18] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:49:18] [Server thread/INFO]: [@: Set the time to 1000]
+[05:49:18] [Server thread/INFO]: [@: Changing to clear weather]
+[05:50:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:50:09] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:50:09] [Server thread/INFO]: [@: Set the time to 1000]
+[05:50:09] [Server thread/INFO]: [@: Changing to clear weather]
+[05:51:00] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:51:00] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:51:00] [Server thread/INFO]: [@: Set the time to 1000]
+[05:51:00] [Server thread/INFO]: [@: Changing to clear weather]
+[05:51:51] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to INSANO_AP for 99999 seconds]
+[05:51:51] [Server thread/INFO]: [@: Given Saturation (ID 23) * 255 to ToBiik_ for 99999 seconds]
+[05:51:51] [Server thread/INFO]: [@: Set the time to 1000]
+[05:51:51] [Server thread/INFO]: [@: Changing to clear weather]
+[05:51:51] [Server thread/INFO]: Stopping server
+[05:51:51] [Server thread/INFO]: Saving players
+[05:51:51] [Server thread/INFO]: Saving worlds
+[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[05:51:51] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
