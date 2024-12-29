@@ -348,3 +348,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16:39:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [16:40:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [16:41:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:42:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:42:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:43:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:44:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:45:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:45:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:46:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:47:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:48:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:48:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:49:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:50:05] [Netty Server IO #2/TRACE] [FML/]: Handshake channel activating
+[16:50:05] [Netty Server IO #2/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:50:05] [Server thread/INFO] [FML/]: Connection received without FML marker, assuming vanilla.
+[16:50:05] [Server thread/INFO] [FML/]: [Server thread] Server side vanilla connection established
+[16:50:05] [Netty Server IO #2/DEBUG] [FML/]:   Next: HELLO
+[16:50:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:51:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[16:51:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
